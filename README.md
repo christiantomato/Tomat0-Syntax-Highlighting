@@ -1,8 +1,8 @@
 # Tomat0 Syntax Highlighting
-A syntax highlighting vscode extension for my custom programming language Tomat0. The extension enables syntax highlighting for .tmt files and editor support such as bracket pairing. 
+A syntax highlighting vscode extension for my custom programming language Tomat0. The extension enables syntax highlighting for ***.tmt*** files and editor support such as bracket pairing. 
 
 ## Installing the Extension
-You can find the extension under my publishing name "christiantomato" on the vscode marketplace.
+You can find the extension under my publishing name ***christiantomato*** on the vscode marketplace.
 
 ## Using the Custom Tomat0 Settings (Optional):
 To use the custom tomat0 color theme, copy and paste the following into your 
